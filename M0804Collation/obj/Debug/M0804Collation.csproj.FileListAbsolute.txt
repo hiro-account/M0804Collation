@@ -1,0 +1,12 @@
+c:\users\mba13\documents\visual studio 2012\Projects\M0804Collation\M0804Collation\bin\Debug\M0804Collation.exe.config
+C:\Users\MBA13\documents\visual studio 2012\Projects\M0804Collation\M0804Collation\obj\Debug\M0804Collation.csprojResolveAssemblyReference.cache
+C:\Users\MBA13\documents\visual studio 2012\Projects\M0804Collation\M0804Collation\bin\Debug\M0804Collation.exe
+C:\Users\MBA13\documents\visual studio 2012\Projects\M0804Collation\M0804Collation\bin\Debug\M0804Collation.pdb
+C:\Users\MBA13\documents\visual studio 2012\Projects\M0804Collation\M0804Collation\obj\Debug\M0804Collation.exe
+C:\Users\MBA13\documents\visual studio 2012\Projects\M0804Collation\M0804Collation\obj\Debug\M0804Collation.pdb
+C:\Users\Vostro\Documents\recycle_bin\m1103_\y190503collation\y190327\Projects\M0804Collation\M0804Collation\bin\Debug\M0804Collation.exe.config
+C:\Users\Vostro\Documents\recycle_bin\m1103_\y190503collation\y190327\Projects\M0804Collation\M0804Collation\obj\Debug\M0804Collation.exe
+C:\Users\Vostro\Documents\recycle_bin\m1103_\y190503collation\y190327\Projects\M0804Collation\M0804Collation\obj\Debug\M0804Collation.pdb
+C:\Users\Vostro\Documents\recycle_bin\m1103_\y190503collation\y190327\Projects\M0804Collation\M0804Collation\bin\Debug\M0804Collation.exe
+C:\Users\Vostro\Documents\recycle_bin\m1103_\y190503collation\y190327\Projects\M0804Collation\M0804Collation\bin\Debug\M0804Collation.pdb
+C:\Users\Vostro\Documents\recycle_bin\m1103_\y190503collation\y190327\Projects\M0804Collation\M0804Collation\obj\Debug\M0804Collation.csprojResolveAssemblyReference.cache
